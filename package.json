@@ -1,0 +1,10 @@
+{
+  "name": "dolb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gstroup@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.17.0"
+  }
+}
